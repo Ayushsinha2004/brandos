@@ -1,0 +1,458 @@
+{
+  "profile_type": "marketing_strategy",
+  "positioning_statement": "Braind AI is the AI implementation partner for growth-stage companies who are tired of AI hype and want practical systems that actually work. Unlike generic AI consultants who deliver strategy decks, or tool vendors who sell point solutions, we architect complete AI operating systems that transform how your business thinks, decides, and executes - delivering measurable ROI within 90 days.",
+  "core_offers": [
+    {
+      "name": "AI Operating System Build",
+      "price_range": "$25,000-$75,000",
+      "description": "Complete AI infrastructure implementation over 8-12 weeks including custom agents, integrations, and team training",
+      "ideal_for": "Companies ready to make a significant AI investment and want comprehensive transformation",
+      "key_deliverables": "Custom AI agents, workflow automation, integrations with existing stack, team training, documentation, 90-day optimization support"
+    },
+    {
+      "name": "Fractional AI Officer",
+      "price_range": "$8,500/month",
+      "description": "Ongoing strategic partnership with weekly calls, unlimited async support, and quarterly roadmap planning",
+      "ideal_for": "Companies who want continuous AI leadership without the cost of a full-time executive hire",
+      "key_deliverables": "Weekly strategy sessions, priority implementation support, AI roadmap development, vendor evaluation, team coaching"
+    },
+    {
+      "name": "AI Pilot Program",
+      "price_range": "$5,000",
+      "description": "30-day proof-of-concept implementation of one AI system with full documentation and training",
+      "ideal_for": "Companies who want to test the waters with a lower-risk initial engagement",
+      "key_deliverables": "One fully implemented AI system, ROI documentation, team training, implementation playbook"
+    },
+    {
+      "name": "Braind Platform Pro",
+      "price_range": "$997/month",
+      "description": "Full access to AI tool suite plus monthly strategy calls and priority support",
+      "ideal_for": "Companies who want ongoing access to AI tools and guidance at a predictable monthly cost",
+      "key_deliverables": "Platform access, monthly strategy call, priority support queue, community access"
+    }
+  ],
+  "customer_journeys": [
+    {
+      "journey_name": "The Educated Buyer",
+      "description": "Prospect who has been consuming content for 3-6 months, understands AI landscape, and is ready to invest",
+      "stages": [
+        "Discovery through LinkedIn content or podcast appearance",
+        "Binge-reads blog content and case studies",
+        "Downloads AI Readiness Assessment",
+        "Joins newsletter for ongoing insights",
+        "Reaches out when budget and timing align",
+        "Discovery call confirms fit",
+        "Proposal and close within 2-3 weeks"
+      ],
+      "timeline": "3-6 months from first touch to purchase",
+      "key_touchpoints": "LinkedIn posts, long-form blog content, lead magnet, email nurture, discovery call"
+    },
+    {
+      "journey_name": "The Urgent Buyer",
+      "description": "Prospect with immediate pain point - lost a deal to competitor, capacity crisis, board pressure",
+      "stages": [
+        "Searches for AI implementation help",
+        "Finds Braind through SEO or referral",
+        "Quickly reviews case studies and credentials",
+        "Books discovery call within days",
+        "Fast decision - looking for confidence and capability",
+        "Starts with Pilot Program or jumps to full engagement"
+      ],
+      "timeline": "1-4 weeks from first touch to purchase",
+      "key_touchpoints": "SEO content, case studies, testimonials, discovery call, fast proposal turnaround"
+    },
+    {
+      "journey_name": "The Referral Buyer",
+      "description": "Prospect introduced by existing client or network connection - pre-sold on trust",
+      "stages": [
+        "Introduction from trusted source",
+        "Brief review of content to confirm credibility",
+        "Discovery call with high intent",
+        "Focused on fit and scope, not credibility",
+        "Decision based on chemistry and approach",
+        "Often higher-ticket engagements"
+      ],
+      "timeline": "2-4 weeks from introduction to purchase",
+      "key_touchpoints": "Referral conversation, credential verification, discovery call, proposal"
+    }
+  ],
+  "funnels": [
+    {
+      "funnel_name": "LinkedIn Thought Leadership Funnel",
+      "purpose": "Build awareness and trust through consistent, valuable content that positions Govind as the go-to AI implementation expert",
+      "stages": {
+        "awareness": "Daily/weekly LinkedIn posts that stop the scroll with counterintuitive insights, frameworks, and real talk about AI",
+        "interest": "Longer posts that go deep on specific topics, comments on relevant discussions, DM conversations with engaged followers",
+        "consideration": "Newsletter subscription via lead magnet, long-form blog content, podcast appearances",
+        "decision": "Discovery call booking, case study review, proposal",
+        "action": "Engagement start, onboarding"
+      },
+      "key_metrics": ["Impressions", "Engagement rate", "Profile views", "Newsletter signups", "Discovery calls booked"]
+    },
+    {
+      "funnel_name": "Lead Magnet Funnel",
+      "purpose": "Capture email addresses of qualified prospects and nurture them toward readiness",
+      "stages": {
+        "awareness": "Promotion of AI Readiness Assessment through LinkedIn, website, partnerships",
+        "interest": "Assessment completion - provides value and qualifies prospects based on responses",
+        "consideration": "Email nurture sequence delivers additional value and builds relationship",
+        "decision": "Strategic CTA to book discovery call at natural points in nurture",
+        "action": "Discovery call, qualification, proposal"
+      },
+      "key_metrics": ["Assessment starts", "Assessment completions", "Email open rates", "Click rates", "Discovery call bookings"]
+    },
+    {
+      "funnel_name": "Workshop Funnel",
+      "purpose": "Convert cold or warm prospects through paid workshop that demonstrates expertise and delivers immediate value",
+      "stages": {
+        "awareness": "Workshop promotion through LinkedIn, email, partnerships",
+        "interest": "Workshop registration - $497 commitment filters for serious buyers",
+        "consideration": "Workshop delivery - 90 minutes of actionable value, positions full engagement as next step",
+        "decision": "Workshop follow-up sequence, discovery call offer",
+        "action": "Upgrade to Pilot Program or full engagement"
+      },
+      "key_metrics": ["Workshop registrations", "Attendance rate", "NPS score", "Upgrade rate to paid engagement"]
+    }
+  ],
+  "audience_segments": [
+    {
+      "segment_name": "The Overwhelmed Founder",
+      "description": "Running $3M-$10M business, wearing too many hats, knows AI could help but paralyzed by options",
+      "pain_points": ["No time to research AI", "Previous disappointments with technology", "Team dependent on them for decisions"],
+      "messaging_angle": "We handle the AI complexity so you can focus on what only you can do",
+      "content_topics": ["Founder time optimization", "AI decision frameworks", "Quick wins that compound"]
+    },
+    {
+      "segment_name": "The Scaling Operator",
+      "description": "COO/VP Ops at growth company, tasked with doing more with less, needs systematic approaches",
+      "pain_points": ["Capacity constraints", "Process documentation gaps", "Team bandwidth limits"],
+      "messaging_angle": "Build operational infrastructure that scales without proportional headcount",
+      "content_topics": ["Operational AI use cases", "Process automation", "Team enablement with AI"]
+    },
+    {
+      "segment_name": "The Innovation Champion",
+      "description": "Senior leader advocating for AI adoption internally, needs external credibility and expertise",
+      "pain_points": ["Internal resistance", "Budget justification challenges", "Lack of technical depth"],
+      "messaging_angle": "External expertise to validate and accelerate your AI vision",
+      "content_topics": ["AI business cases", "Change management", "Executive communication frameworks"]
+    },
+    {
+      "segment_name": "The PE-Backed CEO",
+      "description": "Under board pressure to improve margins, open to technology investments with clear ROI",
+      "pain_points": ["EBITDA pressure", "Need for quick wins", "Board credibility on technology"],
+      "messaging_angle": "AI implementations with documented ROI for board-level reporting",
+      "content_topics": ["AI ROI measurement", "Cost reduction through automation", "Operational efficiency metrics"]
+    }
+  ],
+  "lead_magnets": [
+    {
+      "name": "AI Readiness Assessment",
+      "format": "Interactive assessment (15-20 questions)",
+      "description": "Self-scoring diagnostic that evaluates AI maturity across 7 dimensions and provides personalized recommendations",
+      "target_segment": "All segments - broad appeal, qualifies based on responses",
+      "distribution": "LinkedIn promotion, website homepage, partner newsletters",
+      "follow_up": "Personalized report email, 5-email nurture sequence, discovery call offer"
+    },
+    {
+      "name": "AI Quick Wins Playbook",
+      "format": "PDF guide (15-20 pages)",
+      "description": "Actionable guide to 10 AI implementations any business can do in a week with specific tools and prompts",
+      "target_segment": "DIY-inclined prospects who want to start before engaging",
+      "distribution": "Content upgrades on blog posts, LinkedIn promotion",
+      "follow_up": "Email nurture focused on going deeper, workshop invitation"
+    },
+    {
+      "name": "AI ROI Calculator",
+      "format": "Interactive spreadsheet/tool",
+      "description": "Calculate potential ROI from AI implementation based on current metrics and industry benchmarks",
+      "target_segment": "PE-Backed CEOs and budget-conscious decision makers",
+      "distribution": "Targeted LinkedIn posts, case study follow-ups",
+      "follow_up": "Personalized analysis offer, discovery call"
+    }
+  ],
+  "email_sequences": {
+    "welcome": [
+      "Email 1 (Day 0): Deliver lead magnet, set expectations for what is coming, quick intro to Govind and Braind AI philosophy",
+      "Email 2 (Day 2): The biggest mistake companies make with AI (and how to avoid it) - pure value, no pitch",
+      "Email 3 (Day 4): Framework for evaluating AI opportunities in your business - actionable and insightful"
+    ],
+    "nurture": [
+      "Email 4 (Day 7): Case study deep-dive - specific results for a company like theirs",
+      "Email 5 (Day 10): Common objections addressed honestly - what AI can and cannot do",
+      "Email 6 (Day 14): The AI Operating System concept explained - how everything connects",
+      "Email 7 (Day 21): Soft CTA - invitation to book discovery call if timing is right",
+      "Weekly newsletter: Ongoing value with curated insights, Govind's latest thinking, relevant tools and resources"
+    ],
+    "sales": [
+      "Post-discovery call (Day 1): Recap conversation, confirm next steps, attach any promised resources",
+      "Proposal sent (Day 2): Proposal delivery with context and invitation to discuss",
+      "Proposal follow-up (Day 5): Check in, answer questions, address concerns",
+      "Decision support (Day 7): Final case study or testimonial relevant to their situation",
+      "Close or pause (Day 10): Respectful close attempt or mutual agreement to revisit when timing is better"
+    ],
+    "retargeting": [
+      "Re-engagement (90 days inactive): Share new case study or insight with soft check-in",
+      "Seasonal touchpoint (quarterly): Relevant update tied to business planning cycles (Q1 planning, mid-year review)",
+      "Trigger-based: Automated send when prospect company announces funding, leadership change, or other relevant news"
+    ],
+    "newsletter": [
+      "Weekly format: One main insight or framework, curated links to relevant AI developments, occasional behind-the-scenes peek",
+      "Monthly deep-dive: Longer analysis of a trending topic or detailed case study",
+      "Quarterly: State of AI for business leaders - summary of what matters and what is hype"
+    ]
+  },
+  "traffic_channels": {
+    "organic": [
+      "LinkedIn (Govind's personal profile) - Primary channel, 3-5 posts per week, active engagement in comments",
+      "SEO blog content - Long-form articles targeting high-intent keywords around AI implementation",
+      "Podcast guesting - Monthly appearances on business and technology podcasts",
+      "YouTube - Repurposed content and occasional tutorials (secondary priority)"
+    ],
+    "paid": [
+      "LinkedIn Ads - Retargeting website visitors and engagement audiences, lead magnet promotion",
+      "Google Ads - Limited testing on high-intent search terms (AI consultant, AI implementation help)",
+      "Sponsorships - Newsletter sponsorships in relevant business publications (The Hustle, Morning Brew tech segment)"
+    ],
+    "referral": [
+      "Client referral program - Informal but cultivated, thank-you gifts for referrals, case study participation",
+      "Partner referrals - Reciprocal relationships with complementary service providers (dev agencies, marketing consultants)",
+      "Network referrals - Active cultivation of VC, PE, and founder network for warm introductions"
+    ],
+    "social": [
+      "Twitter/X - Repurposed LinkedIn content, engagement with AI and business communities (secondary)",
+      "LinkedIn Company Page - Company updates and job postings (minimal investment vs personal brand)"
+    ],
+    "search": [
+      "SEO strategy focused on long-tail, high-intent keywords: 'AI implementation for SaaS companies', 'AI consultant for growing business', 'how to implement AI in operations'",
+      "Case study pages optimized for industry-specific searches",
+      "Pillar content strategy with topic clusters around core themes"
+    ]
+  },
+  "channel_objectives": [
+    {
+      "channel": "LinkedIn Organic",
+      "objective": "Primary demand generation - build audience, establish thought leadership, generate inbound leads",
+      "key_metric": "Discovery calls booked from LinkedIn touchpoints",
+      "target": "8-12 discovery calls per month from LinkedIn"
+    },
+    {
+      "channel": "Email/Newsletter",
+      "objective": "Nurture and conversion - maintain relationship with prospects not ready to buy, convert when timing is right",
+      "key_metric": "Email-sourced discovery calls and proposal requests",
+      "target": "4-6 discovery calls per month from email"
+    },
+    {
+      "channel": "Referrals",
+      "objective": "High-quality leads with built-in trust - shorter sales cycles, higher close rates",
+      "key_metric": "Referral-sourced revenue",
+      "target": "30% of new revenue from referrals"
+    },
+    {
+      "channel": "SEO/Content",
+      "objective": "Capture high-intent search traffic, build domain authority, support other channels",
+      "key_metric": "Organic traffic and lead magnet conversions from search",
+      "target": "2-4 discovery calls per month from organic search"
+    }
+  ],
+  "content_distribution": [
+    {
+      "content_type": "LinkedIn Post",
+      "primary_channel": "LinkedIn (Govind's profile)",
+      "repurposing": "Twitter thread, newsletter inclusion, blog expansion (for high performers)",
+      "frequency": "3-5 per week",
+      "creation_process": "Capture insights from client work, industry observations, and reading - batch write and schedule"
+    },
+    {
+      "content_type": "Long-form Blog",
+      "primary_channel": "Website blog",
+      "repurposing": "LinkedIn article, email series, podcast discussion topic, social snippets",
+      "frequency": "2-4 per month",
+      "creation_process": "Deep-dive research on topics that resonate in shorter content - expand with frameworks and examples"
+    },
+    {
+      "content_type": "Case Study",
+      "primary_channel": "Website, sales collateral",
+      "repurposing": "LinkedIn post series, email content, podcast discussion, sales deck",
+      "frequency": "1-2 per quarter",
+      "creation_process": "Post-engagement documentation with client collaboration and approval"
+    },
+    {
+      "content_type": "Podcast Appearance",
+      "primary_channel": "Host's platform",
+      "repurposing": "Clips for social, blog post based on discussion, email feature",
+      "frequency": "1-2 per month",
+      "creation_process": "Proactive outreach to relevant shows, prepare talking points aligned with audience"
+    }
+  ],
+  "advertising_strategies": [
+    {
+      "strategy_name": "LinkedIn Retargeting",
+      "objective": "Re-engage website visitors and content engagers who have not converted",
+      "targeting": "Website visitors, post engagers, lead magnet page visitors who did not convert",
+      "creative_approach": "Case study highlights, testimonial videos, lead magnet promotion",
+      "budget_allocation": "$1,500-2,500/month",
+      "success_metrics": "Cost per lead magnet download under $15, retargeting ROAS 3x+"
+    },
+    {
+      "strategy_name": "Lead Magnet Promotion",
+      "objective": "Accelerate list building during specific campaigns or slow periods",
+      "targeting": "Lookalike audiences based on client list, job title targeting for ICP",
+      "creative_approach": "Value-forward messaging, specific outcome promises, social proof",
+      "budget_allocation": "$1,000-2,000/month (variable)",
+      "success_metrics": "Cost per lead under $20, lead-to-discovery-call rate above 5%"
+    }
+  ],
+  "KPI_targets": [
+    {
+      "metric": "Monthly Qualified Leads",
+      "current": "15",
+      "target": "25",
+      "timeline": "Q3"
+    },
+    {
+      "metric": "Discovery Call to Proposal Rate",
+      "current": "60%",
+      "target": "70%",
+      "timeline": "Q2"
+    },
+    {
+      "metric": "Proposal to Close Rate",
+      "current": "45%",
+      "target": "55%",
+      "timeline": "Q3"
+    },
+    {
+      "metric": "Average Deal Size",
+      "current": "$18,500",
+      "target": "$22,000",
+      "timeline": "Q4"
+    },
+    {
+      "metric": "Client Acquisition Cost",
+      "current": "$2,500",
+      "target": "Maintain under $3,000 while scaling",
+      "timeline": "Ongoing"
+    },
+    {
+      "metric": "Email List Size",
+      "current": "2,800",
+      "target": "5,000",
+      "timeline": "Q4"
+    },
+    {
+      "metric": "LinkedIn Follower Count",
+      "current": "12,500",
+      "target": "25,000",
+      "timeline": "Q4"
+    }
+  ],
+  "budget_allocation": {
+    "ads": "15% - LinkedIn retargeting and periodic lead magnet promotion campaigns",
+    "content": "25% - Freelance writers, designers, video editors for content production",
+    "tech": "20% - Marketing automation, CRM, analytics, AI tools for content creation",
+    "freelancers": "30% - Content creation, design, video editing, research support",
+    "training": "10% - Courses, conferences, coaching for marketing skill development"
+  },
+  "conversion_optimization_tactics": [
+    "A/B test LinkedIn post formats - carousel vs text vs video to identify top performers",
+    "Optimize lead magnet landing pages - test headlines, social proof placement, form length",
+    "Discovery call booking page optimization - reduce friction, add testimonials, clear expectations",
+    "Email subject line testing - systematic testing of curiosity vs benefit vs urgency approaches",
+    "Case study format testing - video vs written, long vs short, single story vs compilation",
+    "Proposal format refinement - test structure, pricing presentation, timeline framing"
+  ],
+  "upsell_downsell_flows": [
+    {
+      "scenario": "Prospect interested in AI Operating System but not ready for full investment",
+      "downsell": "AI Pilot Program ($5,000) - prove value with single implementation, natural path to full engagement",
+      "positioning": "Let's start with one system, document the ROI, and expand from there"
+    },
+    {
+      "scenario": "Pilot Program client seeing strong results",
+      "upsell": "Full AI Operating System Build or Fractional AI Officer retainer",
+      "positioning": "You've proven the value - let's expand this across your entire operation"
+    },
+    {
+      "scenario": "Discovery call prospect not ready to commit to any paid engagement",
+      "downsell": "AI Quick Wins Workshop ($497) - lower risk entry point that demonstrates expertise",
+      "positioning": "Get immediate value and see our approach before committing to implementation"
+    },
+    {
+      "scenario": "Project client engagement ending",
+      "upsell": "Fractional AI Officer retainer for ongoing support and strategic guidance",
+      "positioning": "We've built the foundation - let me help you continue optimizing and expanding"
+    }
+  ],
+  "retention_strategies": [
+    "Quarterly Business Reviews (QBRs) for all retainer clients - structured review of progress, challenges, and roadmap",
+    "Monthly value reports - automated documentation of AI system usage and measurable outcomes",
+    "Proactive optimization recommendations - continuous improvement suggestions based on performance data",
+    "Client community access - Slack channel for clients to connect, share wins, and get support",
+    "Early access to new tools and frameworks - clients get first look at Braind Platform updates",
+    "Annual strategy sessions - complimentary annual planning sessions for retained clients"
+  ],
+  "referral_programs": [
+    {
+      "program_name": "Client Referral Program",
+      "description": "Existing clients who refer new business receive recognition and rewards",
+      "incentive": "First month free on retainer OR $2,500 credit toward future services for each closed referral",
+      "process": "Informal - cultivated through relationship, no formal tracking system yet (improvement opportunity)"
+    },
+    {
+      "program_name": "Partner Referral Program",
+      "description": "Reciprocal referral relationships with complementary service providers",
+      "incentive": "10% referral fee for first-year revenue OR equivalent referral back",
+      "process": "Tracked through CRM, quarterly partner check-ins to maintain relationship"
+    }
+  ],
+  "testing_frameworks": [
+    {
+      "framework": "Content Performance Testing",
+      "description": "Systematic testing of content formats, topics, and hooks to identify what resonates",
+      "process": "Weekly review of LinkedIn analytics, monthly content audit, quarterly strategy adjustment",
+      "metrics": "Engagement rate, profile views, DMs initiated, newsletter signups"
+    },
+    {
+      "framework": "Conversion Rate Optimization",
+      "description": "Ongoing optimization of landing pages, email sequences, and sales processes",
+      "process": "Monthly review of funnel metrics, A/B testing of key pages, quarterly email sequence refresh",
+      "metrics": "Landing page conversion, email open/click rates, discovery call booking rate"
+    },
+    {
+      "framework": "Sales Process Optimization",
+      "description": "Continuous improvement of discovery call to close process",
+      "process": "Call recording review, win/loss analysis, proposal feedback collection",
+      "metrics": "Close rate, sales cycle length, average deal size"
+    }
+  ],
+  "campaign_calendar": [
+    {
+      "q1": [
+        "January: New Year/New AI Strategy campaign - help companies set AI roadmaps",
+        "February: AI Quick Wins Workshop launch promotion",
+        "March: Q1 case study release, spring planning content"
+      ]
+    },
+    {
+      "q2": [
+        "April: AI Operating System methodology deep-dive content series",
+        "May: Partner co-marketing campaign with complementary service provider",
+        "June: Mid-year AI check-in - content around evaluating AI progress"
+      ]
+    },
+    {
+      "q3": [
+        "July: Summer reading list / AI resources compilation",
+        "August: Back to business content - preparing for fall growth push",
+        "September: Fall launch campaign - new offer or platform feature"
+      ]
+    },
+    {
+      "q4": [
+        "October: Q4 planning content - AI budgeting and roadmapping",
+        "November: Case study compilation and year-in-review content",
+        "December: Thought leadership on AI predictions for coming year"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "profile_type": "brand_voice",
+  "tone": [
+    "Authoritative without arrogance - Speaks from deep experience but never talks down to the audience. Confidence comes from battle scars, not credentials.",
+    "Direct and action-oriented - Gets to the point quickly, always connects ideas to what the reader can do with them. No fluff, no padding.",
+    "Intellectually curious - Explores ideas from multiple angles, asks provocative questions, challenges assumptions including our own.",
+    "Pragmatically optimistic - Believes in AI's potential but grounded in what actually works today. Hope backed by evidence.",
+    "Conversationally sharp - Writes like a smart friend explaining something over coffee, not a textbook or corporate memo."
+  ],
+  "style_descriptors": [
+    "Pattern-interrupt opener - Leads with unexpected angles or counterintuitive observations that stop the scroll",
+    "Framework-driven clarity - Breaks complex topics into memorable mental models and actionable frameworks",
+    "Proof-point anchored - Supports claims with specific examples, numbers, and case references",
+    "Strategic contrarianism - Willing to take positions that challenge industry consensus when backed by evidence",
+    "Accessible expertise - Makes sophisticated concepts understandable without dumbing them down"
+  ],
+  "personality_traits": [
+    "Builder's mindset - Thinks in systems and solutions, naturally moves from problem identification to architecture",
+    "Impatient with theater - Low tolerance for hype, buzzwords, and complexity that doesn't serve outcomes",
+    "Generous with knowledge - Shares frameworks and insights freely, believes in value-first relationships",
+    "Obsessively curious - Constantly testing, learning, and refining understanding of what works",
+    "Results-focused pragmatist - Judges everything by whether it produces measurable outcomes"
+  ],
+  "formality_level": "Professional casual - Smart business conversation, not academic writing or startup bro speak. Like a well-read founder talking to peers.",
+  "language_rules": {
+    "contractions": "Use freely - 'don't', 'won't', 'here's' - creates conversational flow and approachability",
+    "jargon_level": "Strategic use of industry terms when they add precision, but always accessible to intelligent non-experts. Define terms when first introducing advanced concepts.",
+    "sentence_length": "Varied for rhythm - Mix punchy short sentences for impact with longer explanatory sentences. Average 12-18 words. Never exceed 30 words in a single sentence.",
+    "use_of_questions": "Frequent - Use rhetorical questions to create engagement and guide thinking. Questions work especially well as transitions and to challenge assumptions.",
+    "paragraph_length": "Short - 1-3 sentences per paragraph for digital content. White space is a feature, not a bug. Dense blocks of text signal 'skip me'."
+  },
+  "persuasion_techniques": [
+    "Problem-Agitation-Solution reframe - Name the problem precisely, show the cost of inaction, present the path forward",
+    "Specificity as credibility - Concrete numbers, timeframes, and examples build trust more than general claims",
+    "Future pacing - Help readers vividly imagine their situation after implementing the solution",
+    "Social proof through pattern - Reference what 'top performers' or 'smart operators' do, creating aspirational benchmarking",
+    "Objection anticipation - Address the 'yeah, but...' before it forms in the reader's mind",
+    "Reciprocity through value - Lead with genuinely useful insights that create goodwill before any ask",
+    "Scarcity of attention - Frame the opportunity cost of not acting, the cost of delay in a fast-moving space"
+  ],
+  "humor_style": "Dry wit and observational humor. Self-deprecating about past mistakes. Occasional sardonic commentary on industry absurdity. Never forced, never at audience's expense. Humor as a trust-building tool, not entertainment.",
+  "audience_relationship": "Trusted advisor and experienced peer - Someone who's further down the road but remembers the challenges. Mentor energy without the hierarchy. We're on the same team, I just have specific expertise you need right now.",
+  "swearing_policy": "Rare and strategic - An occasional 'damn' or 'hell' for emphasis is fine. Keeps it real without being unprofessional. Never in formal proposals or client-facing documents. Never gratuitous.",
+  "emoji_usage": "Minimal and purposeful - One or two per post maximum on social media. Use for visual rhythm or emphasis, not decoration. Never multiple emojis in sequence. None in long-form content or professional communications.",
+  "common_phrases": [
+    "Here's the thing - (transitioning to key insight)",
+    "What most people miss - (positioning contrarian view)",
+    "Let me break this down - (introducing framework)",
+    "The real question is - (reframing the problem)",
+    "I've seen this pattern - (introducing experience-based insight)",
+    "Counterintuitive but true - (setting up surprise)",
+    "The math works like this - (grounding in specifics)",
+    "Stop me if this sounds familiar - (creating recognition)",
+    "Here's what actually works - (transitioning from problem to solution)",
+    "The uncomfortable truth - (introducing hard reality)"
+  ],
+  "phrases_to_avoid": [
+    "Utilize (just say 'use')",
+    "Synergy / synergistic (corporate zombie speak)",
+    "Revolutionary / groundbreaking (overused, means nothing)",
+    "Best-in-class (empty superlative)",
+    "Leverage (as a verb - 'use' or 'apply' instead)",
+    "Circle back / touch base (corporate meeting speak)",
+    "At the end of the day (filler phrase)",
+    "It goes without saying (then don't say it)",
+    "Thought leader (let others apply this label)",
+    "Disruptive (most things aren't, and the word is tired)",
+    "Game-changer (prove it instead of claiming it)",
+    "Low-hanging fruit (lazy metaphor)",
+    "Move the needle (vague and overused)"
+  ],
+  "storytelling_elements": [
+    "Concrete before abstract - Start with specific situation or example, then extract the principle",
+    "Failure as credibility - Share what went wrong and what we learned, vulnerability builds trust",
+    "Client transformations - Before/after narratives that demonstrate value tangibly",
+    "Pattern recognition moments - 'I kept seeing this same problem across different companies...'",
+    "Behind the curtain - Share process, thinking, and methodology openly",
+    "Unexpected connections - Link AI concepts to familiar domains (sports, cooking, etc.) for clarity"
+  ],
+  "call_to_action_style": "Low-friction, high-value - Always offer something genuinely useful, never desperate. 'If you want to go deeper...' rather than 'Don't miss out!' Make the next step obvious and easy. Focus on what they'll get, not what we want them to do.",
+  "formatting_guidelines": {
+    "headlines": "Specific and benefit-driven or curiosity-provoking. Numbers and frameworks work well. Avoid clickbait that doesn't deliver. Test: Would a smart person feel respected reading this?",
+    "subheadings": "Scannable summary of section content. Reader should understand the post's structure from subheadings alone. Use questions or statements, not single words.",
+    "bullets": "Front-load the key point. Each bullet should stand alone. 3-7 bullets per list typically. Use for lists and comparisons, not for every piece of content.",
+    "emphasis": "Bold for key concepts and important phrases. Italic for book titles, defined terms, and light emphasis. Never all caps except for acronyms. Emphasis loses power when overused.",
+    "line_spacing": "Generous white space between paragraphs. Single line breaks within sections, double between major ideas. Mobile readability is paramount - assume readers are on phones."
+  },
+  "reference_brands": [
+    "Alex Hormozi - Tactical specificity, generous value, no-BS directness",
+    "Sahil Bloom - Accessible wisdom, framework-driven thinking, consistent quality",
+    "Paul Graham - Intellectual depth, contrarian insights, essay craft",
+    "Shaan Puri - Conversational energy, curiosity, business storytelling",
+    "Lenny Rachitsky - Deep research, practitioner credibility, systematic approach"
+  ]
+}

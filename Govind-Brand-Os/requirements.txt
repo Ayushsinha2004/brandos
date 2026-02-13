@@ -1,0 +1,9 @@
+# Python Dependencies
+# Add your project dependencies here
+
+# Common dependencies for the 3-layer architecture
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# OpenAI API for image generation
+openai>=1.0.0

@@ -1,0 +1,190 @@
+{
+  "profile_type": "business_context",
+  "business_name": "Braind AI",
+  "founder_name": "Govind",
+  "website_url": "https://braind.ai",
+  "industry": "AI-powered business automation and intelligence solutions for growth-stage companies",
+  "business_model": "Productized service hybrid - combines proprietary AI tools with done-for-you implementation and strategic consulting, creating recurring revenue through retained engagements and platform subscriptions",
+  "core_offers": [
+    "AI Operating System Implementation - Full-stack AI infrastructure setup that transforms how businesses operate, make decisions, and scale",
+    "Custom AI Agent Development - Purpose-built AI agents that automate complex workflows, from lead qualification to customer success operations",
+    "AI Strategy Consulting - Executive-level guidance on AI adoption roadmaps, tool selection, and organizational change management",
+    "Braind Platform Access - Proprietary suite of AI tools and frameworks designed specifically for growth-stage companies"
+  ],
+  "offer_tiers": {
+    "free": [
+      "AI Readiness Assessment - 15-minute diagnostic that scores your business's AI maturity across 7 dimensions",
+      "Weekly AI Insights Newsletter - Curated analysis of AI developments that actually matter for business operators",
+      "Braind AI Community Access - Slack community of founders implementing AI in their businesses"
+    ],
+    "low_ticket": [
+      "AI Quick Wins Workshop - $497 - 90-minute intensive identifying 3 immediate AI implementation opportunities with ROI projections",
+      "Prompt Engineering Masterclass - $297 - Self-paced course on building production-grade prompts for business applications"
+    ],
+    "mid_ticket": [
+      "AI Pilot Program - $5,000 - 30-day proof-of-concept implementation of one AI system with full documentation and training",
+      "Braind Platform Pro - $997/month - Full access to AI tool suite plus monthly strategy calls and priority support"
+    ],
+    "high_ticket": [
+      "AI Operating System Build - $25,000-$75,000 - Complete AI infrastructure implementation over 8-12 weeks including custom agents, integrations, and team training",
+      "Fractional AI Officer - $8,500/month - Ongoing strategic partnership with weekly calls, unlimited async support, and quarterly roadmap planning"
+    ],
+    "custom": [
+      "Enterprise AI Transformation - Custom pricing - Large-scale organizational AI adoption for companies with 100+ employees",
+      "AI Venture Studio Partnership - Equity arrangements for early-stage companies building AI-native products"
+    ]
+  },
+  "revenue_streams": [
+    "Project-based implementation fees - 45% of revenue - One-time AI system builds and custom development",
+    "Monthly retainer clients - 35% of revenue - Ongoing Fractional AI Officer and platform subscriptions",
+    "Digital products and courses - 12% of revenue - Self-serve educational content and tool access",
+    "Affiliate and partnership revenue - 8% of revenue - Referral fees from recommended tools and services"
+  ],
+  "target_markets": [
+    "Growth-stage B2B SaaS companies ($2M-$20M ARR) struggling to scale operations without proportionally scaling headcount",
+    "Professional services firms (agencies, consultancies) looking to productize expertise and reduce founder dependency",
+    "E-commerce brands ($5M-$50M revenue) seeking to automate customer experience and operations",
+    "Private equity portfolio companies under pressure to improve EBITDA through operational efficiency"
+  ],
+  "customer_segments": [
+    "The Overwhelmed Founder - Running a $3M-$10M business, wearing too many hats, knows AI could help but doesn't know where to start or who to trust",
+    "The Scaling Operator - COO or VP Ops at a growth company, tasked with doing more with less, needs systematic approaches not point solutions",
+    "The Innovation Champion - Senior leader advocating for AI adoption internally, needs external expertise and credibility to move initiatives forward",
+    "The PE-Backed CEO - Under board pressure to improve margins, open to technology investments with clear ROI timelines"
+  ],
+  "mission_statement": "To democratize enterprise-grade AI capabilities for growth-stage companies, enabling founders and operators to build businesses that scale intelligently rather than just growing bigger",
+  "vision_statement": "A world where every ambitious company operates with AI-augmented intelligence, making better decisions faster and freeing human talent for work that truly requires human judgment and creativity",
+  "core_values": [
+    "Ruthless Practicality - We only recommend and build what actually works in the real world, not what sounds impressive in demos. Every implementation must deliver measurable business value within 90 days.",
+    "Transparent Expertise - We share our thinking openly, including limitations and uncertainties. Our clients become smarter about AI through working with us, not more dependent.",
+    "Speed With Substance - We move fast but never sacrifice quality for velocity. Rapid iteration beats slow perfection, but we don't ship garbage.",
+    "Human-Centric Automation - AI should amplify human capability, not replace human judgment. We automate the mundane so people can focus on the meaningful.",
+    "Ownership Mentality - We treat client businesses like our own. Their outcomes are our outcomes. We don't just deliver projects, we drive results."
+  ],
+  "unique_selling_proposition": "We don't just implement AI tools - we architect AI operating systems that transform how your entire business thinks, decides, and executes. While others offer point solutions, we build the infrastructure that makes every future AI adoption faster and more impactful.",
+  "competitive_advantages": [
+    "Battle-Tested Frameworks - Our AI Operating System methodology has been refined across 50+ implementations, eliminating the trial-and-error that plagues most AI projects",
+    "Founder-Operator Perspective - We've built and scaled businesses ourselves, so we understand the constraints and priorities that consultants miss",
+    "Full-Stack Capability - From strategy through implementation to ongoing optimization, we own the entire journey rather than handing off between teams",
+    "Speed to Value - Our modular approach delivers measurable wins in 30 days while building toward comprehensive transformation",
+    "Proprietary Tool Suite - The Braind Platform gives clients access to refined AI tools that would take months to build independently"
+  ],
+  "competitors": [
+    "Big 4 Consulting AI Practices - High credibility but slow, expensive, and often deliver strategy decks rather than working systems",
+    "AI Tool Vendors (Jasper, Copy.ai, etc.) - Good for specific use cases but don't solve orchestration or integration challenges",
+    "Freelance AI Consultants - Lower cost but inconsistent quality and limited scope of expertise",
+    "Internal AI/ML Teams - The ideal long-term solution but expensive to build and slow to deliver initial value",
+    "No-Code Automation Agencies - Handle simple workflows but lack the AI expertise for sophisticated implementations"
+  ],
+  "key_partnerships": [
+    "OpenAI and Anthropic - API partnerships providing priority access and volume pricing for client implementations",
+    "Make.com and Zapier - Certified partners for workflow automation integration",
+    "HubSpot and Salesforce - Integration partnerships for CRM-connected AI implementations",
+    "YC and Techstars Alumni Networks - Referral relationships with startup accelerator ecosystems",
+    "Select PE Firms - Preferred vendor relationships for portfolio company AI initiatives"
+  ],
+  "distribution_channels": [
+    "LinkedIn Thought Leadership - Primary organic channel, Govind's personal brand drives 60% of inbound leads",
+    "Referral Network - 30% of clients come from existing client referrals and partner introductions",
+    "Podcast Appearances - Guest appearances on business and technology podcasts drive awareness and credibility",
+    "Workshop and Speaking - Live and virtual events at conferences and private company sessions",
+    "SEO and Content Marketing - Long-form content targeting high-intent AI implementation queries"
+  ],
+  "tech_stack": [
+    "AI/ML: OpenAI GPT-4, Claude, open-source models via Hugging Face, custom fine-tuned models",
+    "Automation: Make.com, n8n, custom Python orchestration, Modal for serverless compute",
+    "Development: Python, TypeScript, Next.js, FastAPI, PostgreSQL, Redis",
+    "Infrastructure: Vercel, AWS, Supabase, Pinecone for vector storage",
+    "Operations: Notion, Slack, Linear, Loom, Google Workspace",
+    "Analytics: Mixpanel, Metabase, custom dashboards"
+  ],
+  "team_structure": {
+    "leadership": [
+      "Govind (Founder/CEO) - Vision, strategy, key client relationships, thought leadership content"
+    ],
+    "marketing": [
+      "Content Manager - Manages content calendar, repurposing, and distribution",
+      "Freelance Designers - On-call for visual content and brand assets"
+    ],
+    "product": [
+      "Senior AI Engineer - Platform development and complex custom implementations",
+      "AI Solutions Architect - Client technical discovery and solution design"
+    ],
+    "sales": [
+      "Govind handles all sales directly - High-touch, founder-led sales process for qualified leads"
+    ],
+    "support": [
+      "Client Success Manager - Ongoing client relationships, QBRs, and expansion opportunities"
+    ],
+    "ops": [
+      "Operations Coordinator - Scheduling, invoicing, contractor management, admin"
+    ]
+  },
+  "scaling_context": {
+    "current_headcount": "6 (2 full-time employees, 3 contractors, 1 founder)",
+    "annual_revenue_range": "$800K-$1.2M ARR",
+    "primary_constraint": "Delivery capacity - more qualified demand than ability to fulfill without compromising quality",
+    "constraint_type": "Supply Constrained",
+    "founder_role": "Still operating as primary salesperson and strategic lead on all major client engagements, transitioning from Doer to Manager",
+    "founder_time_allocation": {
+      "leads": "15% - Content creation, LinkedIn engagement, partnership development",
+      "sales": "25% - Discovery calls, proposals, closing",
+      "delivery": "40% - Strategic oversight, complex problem-solving, client facing work",
+      "management": "20% - Team coordination, process development, hiring"
+    },
+    "business_without_founder": "Would shrink significantly - brand and sales heavily tied to Govind's personal reputation and relationships. Delivery could continue for existing clients at reduced strategic depth."
+  },
+  "unit_economics": {
+    "customer_acquisition_cost": "$2,500 average - primarily time-based (content creation, sales calls) with minimal paid spend",
+    "lifetime_value": "$45,000 average - includes initial project plus 12-month average retention on retainer services",
+    "ltv_cac_ratio": "18:1 - strong economics driven by organic acquisition and high retention",
+    "payback_period": "Immediate on retainer clients (first month payment exceeds CAC), 45 days average on project clients",
+    "monthly_churn_rate": "3% on retainer clients - primarily due to client business changes rather than dissatisfaction",
+    "average_ticket": "$18,500 initial engagement, $6,200 monthly retainer average",
+    "gross_margin": "72% on implementation projects, 85% on retainer services, 92% on digital products"
+  },
+  "acquisition_channels": {
+    "primary_channel": "LinkedIn organic content and inbound - Govind's thought leadership drives most qualified opportunities",
+    "warm_outreach": "Active for strategic accounts - personalized outreach to ideal-fit companies identified through research",
+    "cold_outreach": "Minimal - tested but lower conversion than inbound, reserved for specific campaign pushes",
+    "content": "Heavy investment - 3-5 LinkedIn posts per week, monthly long-form articles, guest podcasts",
+    "paid_ads": "Limited testing - LinkedIn ads for retargeting and lead magnet promotion, not primary acquisition",
+    "referrals": "Strong secondary channel - 30% of clients, informal program with no structured incentives yet",
+    "rule_of_100_status": "Exceeding on content (100+ minutes/week), building toward outreach goal (currently 50 personalized touches/week)"
+  },
+  "current_challenges": [
+    "Founder bandwidth ceiling - Govind's time is the primary constraint on growth, need to build leverage through team and systems",
+    "Productization gaps - Too much custom work, need to standardize more offerings while maintaining quality perception",
+    "Documentation debt - Processes live in Govind's head, limiting delegation and creating key-person risk",
+    "Sales process formalization - Currently intuition-driven, need repeatable qualification and proposal frameworks",
+    "Platform development pace - Braind Platform roadmap is slower than market opportunity, need to accelerate product investment"
+  ],
+  "key_metrics": [
+    "Monthly Recurring Revenue (MRR) - Target: $85K by Q4",
+    "Client Net Promoter Score - Current: 72, Target: 80+",
+    "Qualified Lead Volume - Current: 15/month, Target: 25/month",
+    "Average Project Margin - Current: 68%, Target: 75%",
+    "Founder Delivery Hours - Current: 45/week, Target: 25/week",
+    "Client Retention Rate - Current: 88% annual, Target: 92%"
+  ],
+  "short_term_goals": [
+    "Q1: Hire second AI Solutions Architect to expand delivery capacity by 60%",
+    "Q1: Launch AI Quick Wins Workshop as scalable lead qualification and revenue stream",
+    "Q2: Systematize the AI Operating System methodology into documented playbooks",
+    "Q2: Achieve $100K MRR milestone with 60%+ from retainer revenue",
+    "Q3: Launch Braind Platform v2 with self-serve onboarding for mid-ticket tier"
+  ],
+  "long_term_goals": [
+    "Build Braind AI into the definitive AI implementation partner for growth-stage companies, recognized as the standard for practical AI transformation",
+    "Scale to $5M ARR within 3 years while maintaining 70%+ gross margins and founder working <30 hours/week on operations",
+    "Develop the Braind Platform into a standalone SaaS product generating $1M+ ARR independent of services",
+    "Build a team of 15-20 AI specialists capable of running client engagements autonomously",
+    "Establish thought leadership position through book publication and keynote speaking"
+  ],
+  "brand_assets": {
+    "logo": "Wordmark featuring 'Braind' with neural network-inspired 'a' - represents the fusion of human brain and AI intelligence",
+    "typography": "Primary: Inter for digital, clean and modern. Secondary: Space Grotesk for headlines, adds technical sophistication",
+    "color_palette": "Primary: Deep navy (#0A1628) conveys trust and expertise. Accent: Electric blue (#3B82F6) signals innovation. Secondary: Warm gray (#64748B) for balance. Highlights: Gradient from cyan to purple for AI-forward moments",
+    "voice_guidelines": "See v1-brand_voice.json for comprehensive communication framework"
+  }
+}

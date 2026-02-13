@@ -1,0 +1,198 @@
+{
+  "profile_type": "icp_context",
+  "demographics": {
+    "industry": "B2B SaaS, Professional Services (agencies, consultancies), E-commerce, and PE-backed growth companies across technology, marketing, and business services sectors",
+    "company_size": "15-150 employees, typically $2M-$20M in annual revenue, past initial product-market fit but before enterprise-scale operations",
+    "role_title": "Founders, CEOs, COOs, VP of Operations, or senior leaders with P&L responsibility and authority to make technology investment decisions",
+    "experience_level": "5-15 years of professional experience, at least 2-3 years in current leadership role, technically literate but not engineers themselves",
+    "geographic_focus": "Primarily US and UK, English-speaking markets, remote-friendly companies comfortable with distributed service providers",
+    "income_revenue_range": "Personal income $150K-$500K for founders/executives, company revenue $2M-$20M ARR with 20%+ YoY growth trajectory"
+  },
+  "psychographics": {
+    "pains": [
+      "Drowning in operational tasks that pull them away from strategic work - feeling like an expensive administrator instead of a leader",
+      "Team is maxed out but hiring is slow, expensive, and risky - need to do more without proportionally growing headcount",
+      "Competitors are moving faster on AI adoption and they are falling behind without a clear path to catch up",
+      "Previous AI experiments were disappointing - bought tools that nobody uses, hired consultants who delivered decks not results",
+      "Information is scattered across tools and people's heads - no single source of truth, decisions based on incomplete data",
+      "Spending too much time in the weeds of execution, not enough on strategy and growth initiatives"
+    ],
+    "shames": [
+      "Secretly feel behind on AI understanding - read the headlines but do not truly grasp what is possible or practical",
+      "Have wasted money on technology that did not deliver - feel foolish about past purchases and hesitant to try again",
+      "Know they should be more systematic but keep running on intuition and hustle - imposter syndrome about operational maturity",
+      "Team sees them as the bottleneck but they cannot figure out how to extract themselves from day-to-day decisions",
+      "Promised investors or board members AI initiatives that have not materialized - credibility on the line"
+    ],
+    "fears": [
+      "Making a large investment in AI that fails publicly and damages credibility with team, board, or customers",
+      "Getting locked into the wrong technology stack as AI evolves rapidly - fear of obsolescence",
+      "AI replacing their competitive advantage or making their expertise less valuable",
+      "Hiring an expensive AI team or consultant who burns budget without delivering tangible business results",
+      "Falling so far behind on AI that catching up becomes impossible - missing the window of opportunity",
+      "Security and compliance risks from AI systems handling sensitive business or customer data"
+    ],
+    "aspirations": [
+      "Run a business that operates with precision and intelligence - decisions backed by data, execution that scales without chaos",
+      "Free up personal time for strategic thinking, relationship building, and the work only they can do",
+      "Build a company that can grow 3-5x without proportionally scaling complexity or headcount",
+      "Be seen as an innovative leader who figured out AI before competitors - ahead of the curve, not catching up",
+      "Create systems that work without constant founder intervention - a business that can run without them",
+      "Have clarity and confidence about the AI landscape - know what matters and what is hype"
+    ],
+    "frustrations": [
+      "Every AI vendor oversells and underdelivers - tired of demos that do not reflect real-world performance",
+      "Cannot find people who understand both AI technology AND business operations - always one or the other",
+      "AI content is either too technical or too hype-driven - nowhere to get practical, honest guidance",
+      "Implementation always takes longer and costs more than promised - projects that were supposed to be simple become complex",
+      "Team resistance to new tools and processes - change management is harder than the technology itself",
+      "No clear way to measure AI ROI - hard to justify investment when outcomes are fuzzy"
+    ],
+    "secret_desires": [
+      "Want someone to just tell them exactly what to do - tired of having to figure everything out themselves",
+      "Wish they could clone themselves or have a trusted partner who thinks about the business as deeply as they do",
+      "Dream of a week where they do not touch email, Slack, or operational fires - pure strategic and creative work",
+      "Want to be genuinely excited about their business again instead of exhausted by it",
+      "Secretly hope AI can solve problems they have been avoiding because they seem too hard or entrenched"
+    ],
+    "identity_they_want": "A sophisticated, forward-thinking operator who runs an intelligent business - not someone scrambling to keep up, but someone who has figured out how to leverage technology for genuine competitive advantage. The founder other founders ask for advice."
+  },
+  "current_state": {
+    "where_they_are_now": "Running a growing business that has outpaced its systems. Still operating on startup scrappiness when they need professional infrastructure. Aware that AI could help but unsure where to start or who to trust. Have tried a few AI tools with mixed results. Spending too much time in operations and not enough on strategy.",
+    "what_they_have_tried": [
+      "Bought ChatGPT Plus and played with it, maybe got some value for content but nothing systematic",
+      "Signed up for AI writing tools (Jasper, Copy.ai) but adoption fizzled after initial excitement",
+      "Asked their developer or tech person to look into AI but got overwhelmed by options and complexity",
+      "Attended webinars and read articles about AI but walked away with more confusion than clarity",
+      "Hired a freelancer or consultant for a specific AI project that delivered something but did not transform anything",
+      "Tried to build internal AI capabilities but could not find or afford the right talent"
+    ],
+    "why_previous_solutions_failed": [
+      "Point solutions that did not integrate into existing workflows - required too much manual effort to use consistently",
+      "No strategic framework - just tools without a vision for how they fit together or create compound value",
+      "Consultants who understood technology but not business operations, or vice versa - missing the crucial intersection",
+      "Underestimated change management - great tools that team refused to adopt because rollout was poor",
+      "Overpromised and underdelivered vendors who showed impressive demos but delivered disappointing reality",
+      "Tried to DIY complex implementations without the expertise to do it well - wasted time and created technical debt"
+    ],
+    "what_keeps_them_stuck": "Analysis paralysis from too many options and too much hype. Fear of making the wrong bet and wasting resources. Lack of trusted expertise to guide decisions. No bandwidth to properly evaluate and implement AI while running day-to-day operations. Previous disappointments creating skepticism about whether AI can actually deliver."
+  },
+  "desired_state": {
+    "dream_outcome": "A business that runs with AI-augmented intelligence at every level - automated workflows handling routine work, AI systems surfacing insights for better decisions, team members freed to do high-value creative and strategic work. Growth that scales smoothly without proportional complexity. A founder who works on the business, not just in it.",
+    "success_metrics": [
+      "50%+ reduction in time spent on operational tasks that can be automated or AI-assisted",
+      "Clear ROI documentation showing AI investments paying back within 6 months",
+      "Team actively using AI tools daily without constant prodding or training",
+      "Ability to handle 2-3x current volume without proportional headcount increases",
+      "Founder time freed up for strategic initiatives - measurable shift in calendar composition",
+      "Competitive advantage from AI capabilities that competitors cannot easily replicate"
+    ],
+    "timeline_expectations": "Initial wins within 30 days to build confidence and momentum. Substantial transformation visible within 90 days. Full AI operating system in place within 6 months. Realistic about AI being a journey, not a destination - but need to see tangible progress quickly.",
+    "what_success_looks_like": "Walking into Monday knowing that AI systems handled weekend inquiries intelligently. Having dashboards that surface the insights that matter without manual analysis. Team members saying AI tools make their jobs better, not harder. Board or investors impressed by operational sophistication. Feeling confident and clear about AI strategy rather than anxious and confused."
+  },
+  "behavioral_patterns": {
+    "buying_triggers": [
+      "Hitting a capacity ceiling - cannot take on more business without something breaking",
+      "Losing a deal or opportunity to a competitor who moved faster with AI",
+      "Board or investor pressure to show AI adoption progress",
+      "Key team member leaving and realizing how much knowledge was in their head",
+      "Reading about a peer company achieving significant results with AI implementation",
+      "Experiencing a major operational failure that AI could have prevented"
+    ],
+    "research_habits": "Starts with Google searches and LinkedIn content to understand the landscape. Asks peers and network for recommendations. Looks for case studies and specific results, not just testimonials. Evaluates credibility through content quality and thought leadership. Wants to understand the person/company before jumping on a call. May lurk for months before engaging.",
+    "decision_making_style": "Analytical but ultimately trusts gut on people. Needs to understand the logic and framework, but buys from people they respect and trust. Will do reference calls and due diligence. Prefers phased approaches that prove value before big commitments. Involves key team members in evaluation but makes final call themselves.",
+    "objection_patterns": [
+      "How is this different from the AI consultants who overpromised and underdelivered before?",
+      "We tried AI tools and the team did not adopt them - how do you handle change management?",
+      "What happens when AI technology changes rapidly - will this become obsolete?",
+      "How do you handle our specific industry/use case - is this just generic AI stuff?",
+      "What is the realistic timeline and what will this actually cost all-in?",
+      "How do we measure ROI and know this is actually working?",
+      "What about data security and compliance - who has access to our information?"
+    ],
+    "risk_tolerance": "Moderate - willing to invest in innovation but need clear value proposition and risk mitigation. Prefer proven approaches over bleeding-edge experiments. Want to see evidence of results for similar companies. Phased implementations that prove value before scaling are appealing.",
+    "price_sensitivity": "Value-conscious but not cheap. Willing to pay premium for quality and results. More concerned about ROI and total cost of ownership than initial price. Frustrated by nickel-and-diming or hidden costs. Appreciate transparent pricing even when it is not the lowest. Investment decisions based on expected returns, not budget constraints."
+  },
+  "trust_signals": {
+    "credibility_requirements": [
+      "Demonstrated results with companies similar to theirs - case studies with specific metrics and named companies",
+      "Obvious expertise in both AI technology AND business operations - not just one or the other",
+      "Thought leadership content that shows depth of thinking, not just surface-level takes",
+      "Personal brand and track record of the founder/leader they would be working with",
+      "Clear methodology and framework - not just winging it or learning on their dime"
+    ],
+    "proof_points_needed": [
+      "Specific ROI numbers from past implementations - time saved, revenue increased, costs reduced",
+      "Case studies from companies in similar industries, sizes, or situations",
+      "Client testimonials that speak to the experience of working together, not just outcomes",
+      "Evidence of staying current with rapidly evolving AI landscape",
+      "Demonstration of the actual tools and systems, not just slide decks"
+    ],
+    "skepticism_triggers": [
+      "Overpromising or using hyperbolic language about AI capabilities",
+      "Cannot explain how their approach is different from tools they could buy directly",
+      "Lack of specific examples or vague hand-waving about results",
+      "Pressure tactics or urgency manufacturing in sales process",
+      "More interested in selling than understanding their specific situation",
+      "Cannot answer technical questions or defers everything to implementation"
+    ],
+    "who_they_trust": [
+      "Peers who have successfully implemented AI - founders and operators they respect",
+      "Thought leaders who share genuinely useful content without constant pitching",
+      "People with clear track records and visible body of work",
+      "Practitioners who have built things themselves, not just advised others",
+      "Those who admit limitations and are honest about what AI can and cannot do"
+    ],
+    "what_makes_them_say_yes": "Feeling understood - that this person truly gets their situation and challenges. Seeing a clear path from current state to desired outcome. Confidence in the specific person they would be working with. Evidence that the approach has worked for similar companies. Reasonable first step that proves value before major commitment. Gut feeling that this is someone they can trust."
+  },
+  "language_patterns": {
+    "words_they_use": [
+      "Scaling without breaking",
+      "Wearing too many hats",
+      "Getting out of the weeds",
+      "Building the plane while flying it",
+      "Firefighting instead of strategic work",
+      "Bandwidth and capacity",
+      "Systematizing or creating systems",
+      "Operational excellence",
+      "The AI thing - figuring out the AI thing",
+      "Not wanting to get left behind"
+    ],
+    "words_that_resonate": [
+      "Practical and pragmatic",
+      "Systematic approach",
+      "Measurable ROI",
+      "Battle-tested or proven",
+      "Framework and methodology",
+      "Custom and tailored to your business",
+      "Quick wins plus long-term transformation",
+      "Implementation, not just strategy",
+      "Working with you, not for you",
+      "Honest about what AI can and cannot do"
+    ],
+    "words_to_avoid": [
+      "Revolutionary or disruptive",
+      "Cutting-edge or bleeding-edge",
+      "AI-powered everything - overused and meaningless",
+      "Synergy or synergistic",
+      "Best-in-class or world-class",
+      "Turnkey solution",
+      "Set it and forget it",
+      "Magic or magical",
+      "Guaranteed results - nothing is guaranteed",
+      "Easy or simple - dismisses legitimate complexity"
+    ],
+    "common_objections_verbatim": [
+      "We have been burned by AI consultants before who overpromised and underdelivered",
+      "My team is already overwhelmed - they do not have bandwidth to learn new tools",
+      "How do I know this will actually work for our specific situation?",
+      "The AI space is changing so fast - will this be obsolete in six months?",
+      "We cannot afford to have a failed AI initiative right now",
+      "I do not have time to manage another vendor or project",
+      "What makes you different from everyone else offering AI services?",
+      "Can you just tell me exactly what we should do and implement it?",
+      "How do we handle the data security and compliance aspects?",
+      "What if my team resists adopting the new tools and processes?"
+    ]
+  }
+}

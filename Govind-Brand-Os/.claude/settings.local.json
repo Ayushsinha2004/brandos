@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python execution/content/generate_linkedin_images.py:*)",
+      "Bash(python execution/content/crop_image_minimal.py:*)",
+      "Bash(pip install:*)",
+      "Bash(powershell -Command:*)"
+    ]
+  }
+}
